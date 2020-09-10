@@ -1,0 +1,10 @@
+C:\Users\isaac.arthur\Desktop\Broadbents big C#\CH2 Example\CH2 Example\bin\Debug\CH2 Example.exe.config
+C:\Users\isaac.arthur\Desktop\Broadbents big C#\CH2 Example\CH2 Example\bin\Debug\CH2 Example.exe
+C:\Users\isaac.arthur\Desktop\Broadbents big C#\CH2 Example\CH2 Example\bin\Debug\CH2 Example.pdb
+C:\Users\isaac.arthur\Desktop\Broadbents big C#\CH2 Example\CH2 Example\obj\Debug\CH2 Example.csprojAssemblyReference.cache
+C:\Users\isaac.arthur\Desktop\Broadbents big C#\CH2 Example\CH2 Example\obj\Debug\CH2_Example.Form1.resources
+C:\Users\isaac.arthur\Desktop\Broadbents big C#\CH2 Example\CH2 Example\obj\Debug\CH2_Example.Properties.Resources.resources
+C:\Users\isaac.arthur\Desktop\Broadbents big C#\CH2 Example\CH2 Example\obj\Debug\CH2 Example.csproj.GenerateResource.cache
+C:\Users\isaac.arthur\Desktop\Broadbents big C#\CH2 Example\CH2 Example\obj\Debug\CH2 Example.csproj.CoreCompileInputs.cache
+C:\Users\isaac.arthur\Desktop\Broadbents big C#\CH2 Example\CH2 Example\obj\Debug\CH2 Example.exe
+C:\Users\isaac.arthur\Desktop\Broadbents big C#\CH2 Example\CH2 Example\obj\Debug\CH2 Example.pdb
